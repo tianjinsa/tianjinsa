@@ -26,14 +26,6 @@
   这里主要记录我的项目、学习过程、工程思考，以及持续积累的成长轨迹。
 </p>
 
-<pre>
-正在加载开发者资料...
-代号：tianjinsa
-模式：认真构建 / 持续学习 / 稳定迭代
-次元坐标：代码 × 创意 × 实践
-状态：在线
-</pre>
-
 <details>
   <summary><b>展开角色档案</b></summary>
   <br/>
@@ -166,7 +158,13 @@
 </p>
 
 <hr/>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tianjinsa/tianjinsa/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tianjinsa/tianjinsa/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tianjinsa/tianjinsa/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 <h3 align="center">🏆 成就展示</h3>
 
 <p align="center">
