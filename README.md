@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=tianjinsa&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=Anime%20Style%20Developer%20Profile&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=tianjinsa&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
