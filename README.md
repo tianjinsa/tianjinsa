@@ -1,19 +1,29 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3200&pause=1000&color=C084FC&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+tianjinsa;%E5%9C%A8%E4%BB%A3%E7%A0%81%E4%B8%8E%E7%81%B5%E6%84%9F%E4%B9%8B%E9%97%B4%EF%BC%8C%E6%8C%81%E7%BB%AD%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%96%E7%95%8C" alt="动态标题" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=tianjinsa&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=Anime%20Style%20Developer%20Profile&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="赛博二次元动态横幅" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=F38BA8&center=true&vCenter=true&repeat=true&width=980&lines=Konnichiwa%2C+I%27m+tianjinsa+%E2%9C%A8;Code+like+a+dreamer%2C+build+like+an+engineer;Welcome+to+my+2D-inspired+GitHub+universe+%F0%9F%8C%B8;Learning+deeply%2C+creating+consistently%2C+moving+forward" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <a href="mailto:tianjinsa@outlook.com">
-    <img src="https://img.shields.io/badge/邮箱-tianjinsa%40outlook.com-2e003e?style=flat-square&logo=microsoftoutlook&logoColor=white" />
+<div align="center">
+  <a href="https://github.com/tianjinsa">
+    <img src="https://img.shields.io/badge/GitHub-tianjinsa-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/方向-Java%20全栈开发-4a0072?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/状态-持续学习与稳定输出-6a1b9a?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/信条-把想法写成作品-B026FF?style=flat-square&logo=hackthebox&logoColor=white" />
-</p>
+  <a href="mailto:tianjinsa@outlook.com">
+    <img src="https://img.shields.io/badge/Email-tianjinsa%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=tianjinsa&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Anime%20Vibes-FF66C4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Creative%20Coding-7B68EE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Continuous%20Learning-00BFFF?style=for-the-badge" />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tianjinsa&style=flat-square&color=blueviolet&label=主页访问量" alt="主页访问量" />
@@ -224,5 +234,7 @@
     <img src="https://img.shields.io/badge/GitHub-tianjinsa-6a1b9a?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient" width="100%" />
+</div>
 </div>
